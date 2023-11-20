@@ -2,7 +2,7 @@
 
 Illustrate the ease of parallelization with Spark and use MapReduce algorithm to analyze the NFL data.
 
-[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Northwind_Salesmen_Database/main/northwind_sales.html)
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/NFL_pandas-on-Spark/main/NFL.html) 
 
 Key features:
 
@@ -22,7 +22,7 @@ Modules used:
 
 ## Project Report
 
-[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Northwind_Salesmen_Database/main/northwind_sales.html) ([Jupyter Notebook](./NFL.ipynb))
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/NFL_pandas-on-Spark/main/NFL.html) ([Jupyter Notebook](./NFL.ipynb))
 
 The analysis results with theoretical backgrounds are included.
 
